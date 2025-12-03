@@ -38,4 +38,4 @@ MQTT, Node-RED dashboards, and IoT-enabled sensors.
 
 ## 📞 Contact
 - Email: simonkamua22@gmail.com
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/simon-kamua-145562236/)
+- LinkedIn: [https://linkedin.com/in/simon-kamua-145562236/]
